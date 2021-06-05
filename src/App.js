@@ -1,5 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import About from './components/About';
+import Resume from './components/Resume';
+import Portfolio from './components/Portfolio';
+import ContactUs from './components/ContactUs';
 
 function App() {
   return (
