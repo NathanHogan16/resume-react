@@ -6,7 +6,7 @@ function Resume({ currentCategory }) {
     
     return (
         <section>
-            <h1 data-testid="h1tag">{(name)}</h1>
+            <h1 data-testid="h1tag">Resume</h1>
             <p>hellow</p>
         </section>
     );
