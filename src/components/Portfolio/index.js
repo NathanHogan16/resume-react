@@ -6,7 +6,7 @@ function Portfolio({ currentCategory }) {
     
     return (
         <section>
-            <h1 data-testid="h1tag">{(name)}</h1>
+            <h1 data-testid="h1tag">{name}</h1>
         </section>
     );
   
