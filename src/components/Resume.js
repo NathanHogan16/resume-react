@@ -2,7 +2,7 @@ import React from 'react';
 // import { capitalizeFirstLetter } from '../../utils/helpers';
 
 function Resume({ currentCategory }) {
-    const name  = currentCategory;
+    
     
     return (
         <section>

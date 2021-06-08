@@ -1,12 +1,19 @@
 import React from 'react';
-// import coverImage from "../../assets/cover/cover-image.jpg";
+import nate from "../assets/images/nate.jpg";
 
 function About() {
     return (
-        <section className="my-5">
+        <section className="aboutpage">
             <h1 id="about">Who am I?</h1>
-            {/* <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover"/> */}
-            <p>Noots</p>
+            <div className="image">
+            <img className ="natepic" src={nate} alt="nate" />
+            </div>
+            <div>
+                <h2>Nate Hogan</h2>
+                <p>
+                    hello
+                </p>
+            </div>
         </section>
     );
 }

@@ -35,15 +35,15 @@ function ContactUs() {
         <section>
           <h1>Contact me</h1>
           <form id="contact-form" onSubmit={handleSubmit}>
-          <div>
+          <div className="form">
                 <label htmlFor="name">Name:</label>
                 <input type="text" defaultValue={name} onChange={handleChange} name="name" />
             </div>
-            <div>
-                <label htmlFor="email">Email address:</label>
+            <div className="form">
+                <label htmlFor="email">Email:</label>
                 <input type="email" defaultValue={email} name="email" onChange={handleChange} />
             </div>
-            <div>
+            <div className="form">
                 <label htmlFor="message">Message:</label>
                 <textarea name="message" defaultValue={message} onChange={handleChange} rows="5"  />
             </div>
