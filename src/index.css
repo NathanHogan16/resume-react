@@ -101,6 +101,10 @@ form {
   width: 40%;
 }
 
+.form {
+  margin: 5px;
+}
+
 input {
   font-size: 1rem;
   padding: 0.25rem;
@@ -168,7 +172,11 @@ section {
 }
 
 .form {
-  display: block;
+  margin-top: 20px;
+}
+
+label {
+  display: flex;
 }
 
 header {
@@ -239,4 +247,54 @@ h1 {
 
 #work:hover {
   opacity: 85%;
+}
+
+.paragraph {
+  margin: 0 200px;
+  background-color: rgb(13, 109, 126);
+  padding-bottom: 20px;
+}
+
+.resume {
+  margin: 20px;
+
+}
+
+.skills {
+  color: rgb(13, 109, 126);
+  font-family: 'Poiret One', cursive;
+}
+
+ul {
+  color: white;
+  margin-top: 20px;
+}
+
+.download {
+  color: white;
+}
+
+footer {
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  margin-top: 100px;
+}
+
+.icon {
+  width: 50px;
+  margin: 50px;
+  padding: 0;
+}
+
+.icons {
+  display: flex;
+}
+
+.icon:hover {
+  opacity: 0.5;
+}
+
+li {
+  font-size: 20px; 
 }

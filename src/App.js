@@ -5,6 +5,8 @@ import About from './components/About';
 import Resume from './components/Resume';
 import Portfolio from './components/Portfolio';
 import ContactUs from './components/ContactUs';
+import Footer from './components/Footer';
+
 
 function App() {
 
@@ -18,9 +20,11 @@ function App() {
         <Route component={Resume} path='/resume' />
         <Route component={ContactUs} path='/contactus' />
       </Switch>
+      <Footer></Footer>
     </BrowserRouter>
 
-
+    
+    
   );
 }
 
