@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/resume-react/static/css/main.5799eaef.chunk.css",
+    "main.js": "/resume-react/static/js/main.dc31d2d7.chunk.js",
+    "main.js.map": "/resume-react/static/js/main.dc31d2d7.chunk.js.map",
+    "runtime-main.js": "/resume-react/static/js/runtime-main.5390602e.js",
+    "runtime-main.js.map": "/resume-react/static/js/runtime-main.5390602e.js.map",
+    "static/js/2.b4680716.chunk.js": "/resume-react/static/js/2.b4680716.chunk.js",
+    "static/js/2.b4680716.chunk.js.map": "/resume-react/static/js/2.b4680716.chunk.js.map",
+    "static/js/3.2e61eb29.chunk.js": "/resume-react/static/js/3.2e61eb29.chunk.js",
+    "static/js/3.2e61eb29.chunk.js.map": "/resume-react/static/js/3.2e61eb29.chunk.js.map",
+    "index.html": "/resume-react/index.html",
+    "static/css/main.5799eaef.chunk.css.map": "/resume-react/static/css/main.5799eaef.chunk.css.map",
+    "static/js/2.b4680716.chunk.js.LICENSE.txt": "/resume-react/static/js/2.b4680716.chunk.js.LICENSE.txt",
+    "static/media/github.icon.44eee0c4.png": "/resume-react/static/media/github.icon.44eee0c4.png",
+    "static/media/index.css": "/resume-react/static/media/slimpickins.ab3309db.png",
+    "static/media/linkedin.icon.cc1494dd.png": "/resume-react/static/media/linkedin.icon.cc1494dd.png",
+    "static/media/nate.ec38c556.jpg": "/resume-react/static/media/nate.ec38c556.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5390602e.js",
+    "static/js/2.b4680716.chunk.js",
+    "static/css/main.5799eaef.chunk.css",
+    "static/js/main.dc31d2d7.chunk.js"
+  ]
+}
