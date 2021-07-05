@@ -1,6 +1,10 @@
-# Getting Started with Create React App 
+# Resume-React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my portfolio using React.js.  It is a project that i will be continuoulsy working on so it always up to date. 
+
+
+<img width="944" alt="portfolioReact" src="https://user-images.githubusercontent.com/75545915/121451940-c2107f00-c95b-11eb-9c0c-11d6ebdb7f20.png">
+
 
 ## Available Scripts
 
