@@ -263,6 +263,7 @@ h1 {
 .skills {
   color: rgb(13, 109, 126);
   font-family: 'Poiret One', cursive;
+  margin: 30px;
 }
 
 ul {
@@ -272,6 +273,15 @@ ul {
 
 .download {
   color: white;
+  background-color: black;
+  padding: 10px;
+  border-radius: 25px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.download:hover {
+  color: rgb(13, 109, 126);
 }
 
 footer {
@@ -302,3 +312,20 @@ li {
 .name {
   color: black;
 }
+
+.list {
+  background-color: black;
+  width: 190px;
+  margin: auto;
+  border-radius: 25px;
+}
+
+div li {
+  margin: 5px 0;
+}
+
+/* a {
+  color: rgb(13, 109, 126);
+  text-decoration: none;
+  text-transform: uppercase;
+} */

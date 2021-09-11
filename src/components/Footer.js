@@ -9,8 +9,8 @@ function Footer() {
         <footer className="row">
              <ul className="icons">
                 <li>
-                    <a href="https://github.com/NathanHogan16" target="_blank">
-                        <img className="icon" src={github}></img>
+                    <a href="https://stackoverflow.com/users/14771245/nate-hogan">
+                        <img className="icon" src={stockoverflow}></img>
                     </a>
                 </li>
                 <li>
@@ -19,8 +19,8 @@ function Footer() {
                     </a>
                 </li>
                 <li>
-                    <a href="https://stackoverflow.com/users/14771245/nate-hogan">
-                        <img className="icon" src={stockoverflow}></img>
+                    <a href="https://github.com/NathanHogan16" target="_blank">
+                        <img className="icon" src={github}></img>
                     </a>
                 </li>
             </ul>
