@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/resume-react/static/css/main.dcf0258d.chunk.css",
-    "main.js": "/resume-react/static/js/main.73f903dd.chunk.js",
-    "main.js.map": "/resume-react/static/js/main.73f903dd.chunk.js.map",
+    "main.js": "/resume-react/static/js/main.712940e1.chunk.js",
+    "main.js.map": "/resume-react/static/js/main.712940e1.chunk.js.map",
     "runtime-main.js": "/resume-react/static/js/runtime-main.c62d47e2.js",
     "runtime-main.js.map": "/resume-react/static/js/runtime-main.c62d47e2.js.map",
     "static/js/2.b4f2799b.chunk.js": "/resume-react/static/js/2.b4f2799b.chunk.js",
@@ -15,12 +15,12 @@
     "static/media/github.icon.44eee0c4.png": "/resume-react/static/media/github.icon.44eee0c4.png",
     "static/media/index.css": "/resume-react/static/media/slimpickins.ab3309db.png",
     "static/media/linkedin.icon.cc1494dd.png": "/resume-react/static/media/linkedin.icon.cc1494dd.png",
-    "static/media/nate.ec38c556.JPG": "/resume-react/static/media/nate.ec38c556.JPG"
+    "static/media/nate.ec38c556.jpg": "/resume-react/static/media/nate.ec38c556.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c62d47e2.js",
     "static/js/2.b4f2799b.chunk.js",
     "static/css/main.dcf0258d.chunk.css",
-    "static/js/main.73f903dd.chunk.js"
+    "static/js/main.712940e1.chunk.js"
   ]
 }
