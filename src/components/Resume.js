@@ -10,7 +10,7 @@ function Resume({ currentCategory }) {
             <h1 data-testid="h1tag">Resume</h1>
             <div className="resume">
                 <h2 className="skills">Skills</h2>
-                <a className="download" href="/resume/NateResume(2).pdf" download>Download Resume</a>
+                <a className="download" href="/resume/resume.pdf" download>Download Resume</a>
                 <div className="list">
                     <ul>
                         <li>
