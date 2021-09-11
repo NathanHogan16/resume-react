@@ -1,5 +1,5 @@
 import React from 'react';
-import nate from "../assets/images/nate.jpg";
+import nate from "../assets/images/nate.JPG";
 
 function About() {
     return (
