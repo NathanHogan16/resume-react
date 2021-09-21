@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/resume-react/static/css/main.dcf0258d.chunk.css",
-    "main.js": "/resume-react/static/js/main.712940e1.chunk.js",
-    "main.js.map": "/resume-react/static/js/main.712940e1.chunk.js.map",
+    "main.css": "/resume-react/static/css/main.a5d6db3b.chunk.css",
+    "main.js": "/resume-react/static/js/main.006ca399.chunk.js",
+    "main.js.map": "/resume-react/static/js/main.006ca399.chunk.js.map",
     "runtime-main.js": "/resume-react/static/js/runtime-main.c62d47e2.js",
     "runtime-main.js.map": "/resume-react/static/js/runtime-main.c62d47e2.js.map",
     "static/js/2.b4f2799b.chunk.js": "/resume-react/static/js/2.b4f2799b.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.aa7d07bb.chunk.js": "/resume-react/static/js/3.aa7d07bb.chunk.js",
     "static/js/3.aa7d07bb.chunk.js.map": "/resume-react/static/js/3.aa7d07bb.chunk.js.map",
     "index.html": "/resume-react/index.html",
-    "static/css/main.dcf0258d.chunk.css.map": "/resume-react/static/css/main.dcf0258d.chunk.css.map",
+    "static/css/main.a5d6db3b.chunk.css.map": "/resume-react/static/css/main.a5d6db3b.chunk.css.map",
     "static/js/2.b4f2799b.chunk.js.LICENSE.txt": "/resume-react/static/js/2.b4f2799b.chunk.js.LICENSE.txt",
     "static/media/github.icon.44eee0c4.png": "/resume-react/static/media/github.icon.44eee0c4.png",
     "static/media/index.css": "/resume-react/static/media/slimpickins.ab3309db.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.c62d47e2.js",
     "static/js/2.b4f2799b.chunk.js",
-    "static/css/main.dcf0258d.chunk.css",
-    "static/js/main.712940e1.chunk.js"
+    "static/css/main.a5d6db3b.chunk.css",
+    "static/js/main.006ca399.chunk.js"
   ]
 }
