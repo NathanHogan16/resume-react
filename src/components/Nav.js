@@ -14,7 +14,7 @@ function Nav(props) {
             Portfolio
           </NavLink>
           <NavLink to="/resume">
-            Resume
+            Skills
           </NavLink>
           <NavLink to="/contactus">
             Contact

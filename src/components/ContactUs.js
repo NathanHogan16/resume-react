@@ -36,12 +36,11 @@ function ContactUs() {
           <h1>Contact me</h1>
 
             <div className="contact">
-                <h2 className="email">EMAIL & PHONE</h2>
+                
                 <p className="myemail">
                     natek.hogan@gmail.com
                 </p>
-            </div>
-            <div className="contact">
+            
                 <p className="myemail">
                     801-721-7302
                     <p>Text or Call</p>

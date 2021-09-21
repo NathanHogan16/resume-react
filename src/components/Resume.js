@@ -7,10 +7,10 @@ function Resume({ currentCategory }) {
     
     return (
         <section>
-            <h1 data-testid="h1tag">Resume</h1>
+            {/* <h1 data-testid="h1tag">Skills</h1> */}
             <div className="resume">
-                <h2 className="skills">Skills</h2>
-                <a className="download" href="/resume/resume.pdf" download>Download Resume</a>
+                {/* <h2 className="skills">Skills</h2>
+                <a className="download" href="../../../public/resume/resume.pdf" download>Download Resume</a> */}
                 <div className="list">
                     <ul>
                         <li>
